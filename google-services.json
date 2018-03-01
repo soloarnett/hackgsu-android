@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428472529387",
+    "firebase_url": "https://hackgsu-2018.firebaseio.com",
+    "project_id": "hackgsu-2018",
+    "storage_bucket": "hackgsu-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428472529387:android:cd2f98775fbe4a4b",
+        "android_client_info": {
+          "package_name": "com.hackgsu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428472529387-lgjk5khvkgjh3gfe2nl76403ssdv5343.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9-RoPAMpMe6xvpmslXtYI_f7XkPoJFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
